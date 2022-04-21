@@ -4,4 +4,3 @@ int main() {
     SomeClass::SayHello();
     return 0;
 }
-

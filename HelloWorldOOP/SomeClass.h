@@ -11,4 +11,3 @@ public:
 };
 
 #endif //HELLOWORLDOOP_SOMECLASS_H
-
