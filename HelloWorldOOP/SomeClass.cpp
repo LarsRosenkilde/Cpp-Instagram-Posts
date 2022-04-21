@@ -3,4 +3,3 @@
 void SomeClass::SayHello() {
     cout << "Hello Instagram!" << endl;
 }
-
